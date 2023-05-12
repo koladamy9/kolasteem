@@ -1,0 +1,88 @@
+.intro{
+    text-align: center;
+    padding: 2rem 0;
+}
+.intro .line{
+    background: #f3f5fA;
+    height: .7vh;
+    width: 10%;
+    margin: 0 auto;
+}
+.intro .line .cline{
+    background: #37517E;
+    height: 100%;
+    width: 40%;
+    margin: 0 auto;
+}
+
+/* navbar */
+/* navbar */
+.navbar{
+    background: #f3f5fA !important;
+}
+.navbar a{
+    color: #000;
+    font-weight: bold;
+}
+.navbar a:active{
+    color: #46d646 !important;
+}
+
+/* banner */
+/* banner */
+#banner{
+    background: #bee5be;
+}
+#banner .container h1{
+    color: #ffa500;
+}
+#banner .container p{
+    color: #fff;
+}
+
+/* About */
+/* About */
+#about{
+    background: #a3d557;
+}
+#about .container h1{
+    color: #fff;
+}
+#about .container p{
+    color: #fff;
+}
+
+/* client/sponsor */
+/* client sponsor */
+#client .container .btn{
+    background: #45ab45;
+}
+#client .container .btn{
+    margin-top: 0.7 0;
+    text-decoration: white;
+}
+
+/* border */
+/* border */
+#border{
+    background: #bcda8b;
+}
+#border h4{
+    color: #fff;
+    margin: 2rem 1.5rem;
+}
+#border .container h6{
+    color: #ffff00;
+}
+#border .container p{
+    color: #fff;
+}
+
+/* lastbar */
+/* lastbar */
+#lastbar{
+    background: #a3d557;
+}
+#lastbar .container h2{
+    color: #fff;
+}
