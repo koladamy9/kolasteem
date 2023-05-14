@@ -31,8 +31,20 @@
 /* banner */
 /* banner */
 #banner{
-    background: #bee5be;
+    background: #efcb88;
+    background-size: cover;
+    background-position: center center;
+    height: 80vh;
 }
+#banner .container{
+    color: var(--white-color);
+    width: 85%;
+    display: flex;
+    height: 100%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+   }
 #banner .container h1{
     color: #ffa500;
 }
@@ -54,8 +66,9 @@
 
 /* client/sponsor */
 /* client sponsor */
-#client .container .btn{
-    background: #45ab45;
+#client .container .btn1{
+    background: #fff;
+    text-emphasis-color: #fff;
 }
 #client .container .btn{
     margin-top: 0.7 0;
