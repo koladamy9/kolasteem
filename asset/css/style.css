@@ -31,7 +31,8 @@
 /* banner */
 /* banner */
 #banner{
-    background: #efcb88;
+    background-image: url(/asset/img/cool\ image.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     height: 80vh;
@@ -46,7 +47,7 @@
     justify-content: space-between;
    }
 #banner .container h1{
-    color: #ffa500;
+    color: #ffa400;
 }
 #banner .container p{
     color: #fff;
